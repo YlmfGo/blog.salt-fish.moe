@@ -138,7 +138,7 @@ cover:
       url: about/
 
 rightmenu:
-  enable: true
+  enable: false
   # hr: 分割线, music: 音乐控制器
   layout: [home] #[home, print, hr, music]
   # 可选功能项
