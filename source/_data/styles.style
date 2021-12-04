@@ -1,0 +1,7 @@
+body{   //页面主体背景
+        background-image:url(https://cdn.jsdelivr.net/gh/xbl233/blog/img/bg.jpg);
+        background-size:cover;
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-position:right;
+     }
