@@ -6,10 +6,10 @@ info:
   theme_docs: https://volantis.js.org/ # This is theme's URL.
   theme_repo: https://github.com/volantis-x/hexo-theme-volantis
   cdn:
-    js: https://cdn.jsdelivr.net/gh/XiaoMengXinX/blog/js-v4.0.0/app.js # 注意版本!!!
-    css:
-      first: https://cdn.jsdelivr.net/gh/XiaoMengXinX/blog/css-v4.0.0/first.css
-      style: https://cdn.jsdelivr.net/gh/XiaoMengXinX/blog/css-v4.0.0/style.css
+    #js: https://cdn.jsdelivr.net/gh/XiaoMengXinX/blog/js-v4.0.0/app.js # 注意版本!!!
+    #css:
+      #first: https://cdn.jsdelivr.net/gh/XiaoMengXinX/blog/css-v4.0.0/first.css
+      #style: https://cdn.jsdelivr.net/gh/XiaoMengXinX/blog/css-v4.0.0/style.css
 
 custom_css:
   font_smoothing: true
