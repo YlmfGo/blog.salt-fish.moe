@@ -65,10 +65,10 @@ navbar:
     - name: 主页
       icon: fas fa-home
       url: /
-    - name: 说说
-      icon: fas fa-comment
+    #- name: 说说
+    #  icon: fas fa-comment
       #url: artitalk?blank
-      url: artitalk/
+    #  url: artitalk/
     - name: 留言板
       icon: fas fa-book
       url: messages/
@@ -125,10 +125,10 @@ cover:
     #  icon: fas fa-tags
     #  img: 
     #  url: tags
-    - name: 说说
-      icon: fas fa-comment
+    #- name: 说说
+    #  icon: fas fa-comment
       #url: artitalk?blank
-      url: artitalk/
+    #  url: artitalk/
     - name: 留言板
       icon: fas fa-book
       url: messages/
