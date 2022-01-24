@@ -7,14 +7,14 @@ title: XiaoMengXinX's Blog
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: XiaoMengXinX
 language: en
 timezone: ''
 use_cdn: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://blog.onetext.xyz/
+url: https://salt-fish.moe/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -46,7 +46,7 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
