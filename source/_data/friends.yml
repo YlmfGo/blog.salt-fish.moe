@@ -1,0 +1,11 @@
+- group: My friends # 分组标题
+  description:  # 分组描述
+  items:
+    - title: 鱼类观测研究所 # 名称
+      avatar: https://lz233.ac.cn/images/favicon.jpg
+      url: https://lz233.ac.cn/
+      description: lz233's Blog
+    - title: MlagXyysd's Cat Nest
+      avatar: https://www.neko.ink/wp-content/uploads/2021/12/Profile.jpg
+      url: https://www.neko.ink/
+      description: 大佬炸喵的Blog！
