@@ -801,15 +801,15 @@ plugins:
     zindex: 2147483647                   # 层级
     copyright:                           # 是否在复制时弹出版权提示，影响范围：ctrl+c、代码块复制按钮、右键复制选项
       enable: true
-      title: '知识共享许可协议'
-      message: '请遵守 CC BY-NC-SA 4.0 协议。'
-      icon: 'far fa-copyright light-blue'
+      title: '文本已复制'
+      message: ''
+      icon: 'far fa-clipboard light-blue'
     aplayer:                              # 是否开启音乐通知；播放、暂停、失败 时的图标
       enable: true
       play: fas fa-play
       pause: fas fa-pause
     rightmenu:                            # 是否开启右键模块的消息通知
-      enable: true
+      enable: false
   
   # 标签插件样式按需加载
   # 注意这个配置是带缓存的, 如果修改标签插件样式每次调试需要刷新两次页面, 建议开发者关闭该配置
@@ -840,7 +840,7 @@ plugins:
 ############################### Rightmenu ############################### > start
 # 自定义右键菜单
 rightmenu:
-  enable: true
+  enable: false
   faicon: fa              # 公共图标类型 fa fal fas fad
   # hr: 分割线, music: 音乐控制器
   layout: [home, hr, help, examples, contributors, hr, source_docs, source_theme, hr, print, darkmode, reading, music]
