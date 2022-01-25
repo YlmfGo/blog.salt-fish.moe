@@ -1,0 +1,4 @@
+[submodule "themes/volantis"]
+	branch = main
+	path = themes/volantis
+	url = https://github.com/XiaoMengXinX/hexo-theme-volantis
